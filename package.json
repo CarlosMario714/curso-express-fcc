@@ -1,0 +1,14 @@
+{
+  "name": "servidor-express",
+  "version": "1.0.0",
+  "description": "mi primer servidor con node y express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos mario",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
